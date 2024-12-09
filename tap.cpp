@@ -9,6 +9,8 @@ int main() {
     std::cin >> b;
 
     std::cout << "Сумма: " << (a + b) << std::endl;
+    std::cout << "Разность: " << (a - b) << std::endl;
+
 
     return 0;
 }
