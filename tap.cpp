@@ -8,5 +8,7 @@ int main() {
     std::cout << "¬ведите второе число: ";
     std::cin >> b;
 
+    std::cout << "—умма: " << (a + b) << std::endl;
+
     return 0;
 }
